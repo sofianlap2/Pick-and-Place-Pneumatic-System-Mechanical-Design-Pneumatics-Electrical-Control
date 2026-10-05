@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-08022011-100536";"";
+"REFERENCE";"CD55B25-100";"";
+"rs_stock_number";"165251";"";
+"TraceParts.PartTitle";"SMC Pneumatic Compact Cylinder 25mm Bore, 100mm Stroke, C55 Series, Double Acting";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/165251?cm_mmc=en-ds-_-mcad-_-traceparts-_-165251'";"";
+"SUPPLIER";"SMC Pneumatics";"";
+"DESIGN";"SMC Pneumatic Compact Cylinder 25mm Bore, 100mm Stroke, C55 Series, Double Acting";"";
+"TraceParts.InstanceId";"10-08022011-1005363UPNQANV5XE1GBBPLRE3OY2UC";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.6";"";

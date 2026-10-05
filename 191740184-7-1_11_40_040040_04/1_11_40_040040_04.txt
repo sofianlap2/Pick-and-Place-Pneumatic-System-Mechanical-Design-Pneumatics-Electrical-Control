@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-13102014-081687";"";
+"REFERENCE";"1.11.40.040040.04";"";
+"TraceParts.PartTitle";"Profile alu PG40  40x40  4 rainures";"";
+"TraceParts.InstanceId";"10-13102014-0816871M6Q9UW5NWXD927M768TGVZHD";"";
+"DESIGN";"Profile alu PG40  40x40  4 rainures";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Dalian Modular Assembly Technology Co., Ltd.";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";
+"TraceParts.ClassPath";"DALIAN_MODULAR:10-13102014-081687";"";
